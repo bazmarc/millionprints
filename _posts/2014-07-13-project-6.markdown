@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: 3x4 custom puzzle
+subtitle: Print your favorite photo on LEGO® tiles
 layout: default
-modal-id: 6
+modal-id: 8
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: 8.png
+thumbnail: 8t.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2018
+client: Custom Job
+category: Printed Tiles
+description: Choose the perfect photo to print on 12 LEGO® 2x2 tiles, makes for a great gift. Only $USD15 worldwide shipping included. (no backplate)
 
 ---
