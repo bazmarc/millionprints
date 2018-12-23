@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 1x8 LEGO® Brick prints
+subtitle: LUG Custom Badge Names
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: 4.png
+thumbnail: 4t.png
 alt: image-alt
-project-date: April 2014
+project-date: 2017
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Custom Print on LEGO® bricks
+description: Each year, LUG member of the Québec LEGO User Group get to pick what they want printed on their 1x8 color of their choice 
 
 ---
