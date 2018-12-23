@@ -1,3 +1,5 @@
+// IGNORE THIS FILE IF USING GITHUB PAGES --> PHP INCOMPATIBLE
+
 <?php
 error_reporting(E_ALL); ini_set('display_errors', 1);
 // Check for empty fields
@@ -26,4 +28,3 @@ mail($to,$email_subject,$email_body,$headers);
 return true;
 ?>
 
-<input type="text" name="name">
