@@ -1,5 +1,4 @@
-url: http://www.millionprints.com/
-baseurl: /
+baseurl: 
 
 # Site settings
 title: millionprints.com
@@ -11,6 +10,7 @@ people:
     - name: Marc-André Bazergui
       pic: 1
       position: Owner/Operator
+      url: https://www.facebook.com/marc.a.bazergui
       social:
         - title: twitter
           url: https://twitter.com/mbzrg
@@ -22,24 +22,12 @@ people:
     - name: bazmarc.ca
       pic: 2
       position: MINDSTORMS Adventures
-      social:
-        - title: Website
-          url: https://bazmarc.ca
-        - title: facebook
-          url: https://www.facebook.com/marc.a.bazergui
-        - title: linkedin
-          url: https://www.linkedin.com/in/marcandrebazergui/
+      url: http://bazmarc.ca
 
     - name: Le Flag Shop Montreal
       pic: 3
       position: Official Reseller of MillionPrints
-      social:
-         - title: facebook
-           url: https://www.facebook.com/LeFlagShopMontreal/
-         - title: facebook
-           url: https://www.facebook.com/marc.a.bazergui
-         - title: linkedin
-           url: https://www.linkedin.com/in/marcandrebazergui/
+      url: https://www.facebook.com/LeFlagShopMontreal/
       
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
