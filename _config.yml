@@ -24,11 +24,19 @@ people:
       social:
     	  - title: Website
       		url: https://bazmarc.ca
+		    - title: facebook
+		      url: https://www.facebook.com/marc.a.bazergui
+		    - title: linkedin
+		      url: https://www.linkedin.com/in/marcandrebazergui/
     - name: Le Flag Shop Montreal
       pic: 3
       position: Official Reseller of MillionPrints
   		  - title: facebook
 		    url: https://www.facebook.com/LeFlagShopMontreal/
+		    - title: facebook
+		      url: https://www.facebook.com/marc.a.bazergui
+		    - title: linkedin
+		      url: https://www.linkedin.com/in/marcandrebazergui/
 	  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
