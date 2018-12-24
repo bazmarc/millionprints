@@ -9,7 +9,7 @@ description: We specialized in Custom Printing on LEGO pieces, from custom proje
 # Team names, titles and social links
 people:
 	- name: Marc-André Bazergui
-	  pic: 11
+	  pic: 1
 	  position: Owner/Operator
 	  social:
 	    - title: twitter
@@ -19,7 +19,7 @@ people:
 	    - title: linkedin
 	      url: https://www.linkedin.com/in/marcandrebazergui/		  
 	- name: bazmarc.ca
-  	  pic: 22
+  	  pic: 2
   	  position: MINDSTORMS Adventures
       social:
     	  - title: Website
@@ -29,7 +29,7 @@ people:
 		    - title: linkedin
 		      url: https://www.linkedin.com/in/marcandrebazergui/
     - name: Le Flag Shop Montreal
-      pic: 33
+      pic: 3
       position: Official Reseller of MillionPrints
   		  - title: facebook
 		    url: https://www.facebook.com/LeFlagShopMontreal/
