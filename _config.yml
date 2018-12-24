@@ -8,36 +8,39 @@ description: We specialized in Custom Printing on LEGO pieces, from custom proje
 
 # Team names, titles and social links
 people:
-	- name: Marc-André Bazergui
-	  pic: 1
-	  position: Owner/Operator
-	  social:
-	    - title: twitter
-	      url: https://twitter.com/mbzrg
-	    - title: facebook
-	      url: https://www.facebook.com/marc.a.bazergui
-	    - title: linkedin
-	      url: https://www.linkedin.com/in/marcandrebazergui/		  
-	- name: bazmarc.ca
-  	  pic: 2
-  	  position: MINDSTORMS Adventures
+    - name: Marc-André Bazergui
+      pic: 1
+      position: Owner/Operator
       social:
-    	  - title: Website
-      		url: https://bazmarc.ca
-		    - title: facebook
-		      url: https://www.facebook.com/marc.a.bazergui
-		    - title: linkedin
-		      url: https://www.linkedin.com/in/marcandrebazergui/
+        - title: twitter
+          url: https://twitter.com/mbzrg
+        - title: facebook
+          url: https://www.facebook.com/marc.a.bazergui
+        - title: linkedin
+          url: https://www.linkedin.com/in/marcandrebazergui/          
+
+    - name: bazmarc.ca
+      pic: 2
+      position: MINDSTORMS Adventures
+      social:
+        - title: Website
+          url: https://bazmarc.ca
+        - title: facebook
+          url: https://www.facebook.com/marc.a.bazergui
+        - title: linkedin
+          url: https://www.linkedin.com/in/marcandrebazergui/
+
     - name: Le Flag Shop Montreal
       pic: 3
       position: Official Reseller of MillionPrints
-  		  - title: facebook
-		    url: https://www.facebook.com/LeFlagShopMontreal/
-		    - title: facebook
-		      url: https://www.facebook.com/marc.a.bazergui
-		    - title: linkedin
-		      url: https://www.linkedin.com/in/marcandrebazergui/
-	  
+      social:
+         - title: facebook
+           url: https://www.facebook.com/LeFlagShopMontreal/
+         - title: facebook
+           url: https://www.facebook.com/marc.a.bazergui
+         - title: linkedin
+           url: https://www.linkedin.com/in/marcandrebazergui/
+      
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
