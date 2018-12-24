@@ -19,11 +19,11 @@ people:
 	    - title: linkedin
 	      url: https://www.linkedin.com/in/marcandrebazergui/		  
 	- name: bazmarc.ca
-  	  pic: 2
-  	  position: MINDSTORMS Adventures
+	   pic: 2
+	   position: MINDSTORMS Adventures
       social:
-    	  - title: Website
-      		url: https://bazmarc.ca
+	   - title: Website
+	   url: https://bazmarc.ca
 		    - title: facebook
 		      url: https://www.facebook.com/marc.a.bazergui
 		    - title: linkedin
@@ -31,7 +31,7 @@ people:
     - name: Le Flag Shop Montreal
       pic: 3
       position: Official Reseller of MillionPrints
-  		  - title: facebook
+		    - title: facebook
 		    url: https://www.facebook.com/LeFlagShopMontreal/
 		    - title: facebook
 		      url: https://www.facebook.com/marc.a.bazergui
