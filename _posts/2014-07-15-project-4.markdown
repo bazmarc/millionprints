@@ -8,8 +8,8 @@ img: 4.png
 thumbnail: 4t.png
 alt: image-alt
 project-date: 2017
-client: Start Bootstrap
-category: Custom Print on LEGO® bricks
+client: QueLUG.org
+category: Personalized Custom Printing on LEGO® bricks
 description: Each year, LUG member of the Québec LEGO User Group get to pick what they want printed on their 1x8 color of their choice 
 
 ---
