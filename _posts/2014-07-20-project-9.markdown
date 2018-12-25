@@ -1,6 +1,6 @@
 ---
 title: 1x2 Tiles
-subtitle: Quebec and Pride Flags
+subtitle: Pride Flags
 layout: default
 modal-id: 9
 date: 2014-07-18
@@ -10,5 +10,5 @@ alt: image-alt
 project-date: 2018
 client: Le Flag Shop
 category: Stock Item
-description: we are proud at Million Print and Le Flag Shop. There beautiful Pride and Trans flags as well as flag from any country are availabe upon request. 
+description: We are proud at Millionprint and at Le Flag Shop. These beautiful Pride and Trans flags as well as flag from any country are availabe upon request. Order yours today - USD$1 each - world wide shipping included for orders of 5 or more.
 ---
