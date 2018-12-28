@@ -7,18 +7,12 @@ description: We specialized in Custom Printing on LEGO pieces, from custom proje
 
 # Team names, titles and social links
 people:    
-    - name: 
-      pic: 1
-      position: 
-      url: 
+    
     - name: Millionprints.com
       pic: 2
       position: Official Facebook Page
       url: https://www.facebook.com/millionprints/
-    - name:  
-      pic: 3
-      position: 
-      url: 
+    
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
