@@ -6,28 +6,11 @@ email: bazmati@gmail.com
 description: We specialized in Custom Printing on LEGO pieces, from custom projects to shopping already printed pieces.
 
 # Team names, titles and social links
-people:
-    - name: Marc-André Bazergui
+people:    
+    - name: Millionprints.com
       pic: 1
-      position: Owner/Operator
-      url: https://www.linkedin.com/in/marcandrebazergui/
-      social:
-        - title: twitter
-          url: https://twitter.com/mbzrg
-        - title: facebook
-          url: https://www.facebook.com/marc.a.bazergui
-        - title: linkedin
-          url: https://www.linkedin.com/in/marcandrebazergui/          
-
-    - name: bazmarc.ca
-      pic: 2
-      position: MINDSTORMS Adventures
-      url: http://bazmarc.ca
-
-    - name: Le Flag Shop Montreal
-      pic: 3
-      position: Official Reseller of MillionPrints
-      url: https://www.facebook.com/LeFlagShopMontreal/
+      position: Official Facebook Page
+      url: https://www.facebook.com/millionprints/
       
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
