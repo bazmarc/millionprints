@@ -7,9 +7,10 @@
                     <h3 class="section-subheading text-muted">Providing Custom Prints to the AFOL Community Since 2015</h3>
                 </div>
             </div>
-            <div class="row">
+		
+            {% <div class="row"> %}
                 {% for member in site.people %}
-                <div class="col-sm-4 text-center">
+                {% <div class="col-sm-4"> %}
                     <div class="team-member">
 		        <a href="{{ member.url }}">
 		        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
@@ -30,8 +31,8 @@
 {% endcomment %}
 			    
                         </ul>
-                    </div>
-                </div>
+                   {%  </div> %}
+               {%  </div> %}
                 {% endfor %}
             </div>
             <div class="row">
