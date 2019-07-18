@@ -3,7 +3,7 @@ baseurl:
 # Site settings
 title: millionprints.com
 email: bazmati@gmail.com
-description: We specialized in Custom Printing on LEGO pieces, from custom projects to shopping already printed pieces.
+description: We specialized in Custom Printing on LEGO pieces. We use a Digital UV Printer and are able to produce small runs at really affordable prices. At millionprints.com we love challenges. Need prints for your MOC or a batch of personalised bricks to give out at events? Think millionprints.com!
 
 # Team names, titles and social links
 people:    
@@ -11,7 +11,7 @@ people:
       pic: 1
       position: 
       url: 
-    - name: Millionprints.com
+    - name: millionprints.com
       pic: 2
       position: Official Facebook Page
       url: https://www.facebook.com/millionprints/
