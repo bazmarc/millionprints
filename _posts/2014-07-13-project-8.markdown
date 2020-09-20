@@ -12,6 +12,6 @@ client: Custom Job
 category: Printed Tiles
 description: Choose the perfect photo to print on 12 LEGO® 2x2 tiles, makes for a great gift. Only $USD15 worldwide shipping included. (no backplate)
 
-![placeholder](http://blastgames.org/wp-content/uploads/2017/06/half-blast-games-pro-logo-no-letters.png "blastgames.com")
+
 
 ---
